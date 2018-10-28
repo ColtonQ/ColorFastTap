@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Color Fast Tap</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4688351229631812/5970331085</string>
+    <string name="about_me">Hi!  I\'m Colton Quan.  I\'m a 16-year-old high school student from Vancouver, Canada, who is passionate about coding!
+        Color Fast Tap is my first mobile app on the market.  I\'m new to mobile app development, but I have experience with coding
+        through school programming courses and extracurricular coding classes.  I hope you have as much fun playing Color Fast Tap as I did
+        developing it!</string>
+</resources>

@@ -8,8 +8,8 @@ Play solo and break your personal best, or challenge your friends for the top sc
 
 ![Screenshot 0](https://lh3.googleusercontent.com/EbRyIUU6jekg5iFB9dWaRx2P_-ArC7J9nVK3NgEsjZ2jP92VtrOI7jlsWsuFVDK4wg=w1920-h981-rw)
 
-![Screenshot 1](https://raw.githubusercontent.com/coltonquan/ColorFastTap/master/image1.png)
+![Screenshot 1](https://lh3.googleusercontent.com/36JWxP7blqyaMXZX83PXJgZqKJ9wKDSUJXj6vrDQUGe80dZbrzMPy-0tO1lgKrW5iSw=w1920-h981-rw)
 
-![Screenshot 2](https://raw.githubusercontent.com/coltonquan/ColorFastTap/master/image2.png)
+![Screenshot 2](https://lh3.googleusercontent.com/Lv9F9vKaUQR9Uiy-WA8SJo4eprA3UceFFDcIH7v-O7VUDxoqK6Wl0NRYI8S16SF0_g=w1920-h981-rw)
 
-![Screenshot 3](https://raw.githubusercontent.com/coltonquan/ColorFastTap/master/image3.png)
+![Screenshot 3](https://lh3.googleusercontent.com/QOSTCqRKhAU8-tGjdcAl-UY_Iz_ydhZ_6WeBr1j6AzdA96LT8h4oy7xytkh7zupfCAk=w1920-h981-rw)

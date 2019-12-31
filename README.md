@@ -6,7 +6,7 @@ The game consists of 4 colored squares, and a larger colored rectangle. The obje
 If you match the color correctly, the colors change, and the game continues. If not, its game over!
 Play solo and break your personal best, or challenge your friends for the top score and bragging rights!
 
-![Screenshot 0](https://raw.githubusercontent.com/coltonquan/ColorFastTap/master/image0.png)
+![Screenshot 0](https://lh3.googleusercontent.com/EbRyIUU6jekg5iFB9dWaRx2P_-ArC7J9nVK3NgEsjZ2jP92VtrOI7jlsWsuFVDK4wg=w1920-h981-rw)
 
 ![Screenshot 1](https://raw.githubusercontent.com/coltonquan/ColorFastTap/master/image1.png)
 
